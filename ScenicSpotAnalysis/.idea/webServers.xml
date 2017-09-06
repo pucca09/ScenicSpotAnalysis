@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6fac3a74-36b2-4c9d-b90b-59643a1c328e" name="dell01" url="http://10.3.242.35">
+        <fileTransfer host="10.3.242.35" port="22" rootFolder="/extdisk/wtist/tele/Chenqingqing/project" accessType="SFTP" password="dfc9dfdbdfdbdf93df99df9adf93df98df9d" username="chenqingqing">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
